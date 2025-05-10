@@ -50,7 +50,8 @@ GOOGLE_API_KEY=your_gemini_api_key_here  # Get your Gemini API key from Google A
 ## ▶️ Run the App
 
 streamlit run app.py
-🧠 How It Works
+
+## 🧠 How It Works
 
 1. The user inputs a topic and selects a difficulty level.
 
